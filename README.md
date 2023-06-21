@@ -23,7 +23,7 @@ Saya mengubah arsitekturnya menjadi MVP karena menurut saya dalam struktur penyu
 ### Model
   - DB
   - ScoreModel
-#### View
+### View
   - ScoreView
   - Display
   - Game
