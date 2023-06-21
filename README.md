@@ -48,4 +48,5 @@ Saya mengubah arsitekturnya menjadi MVP karena menurut saya dalam struktur penyu
   -  Atribut yang dimiliki objek yang akan dipanggil di view.
 - View
   Dalam view diubah menjadi bagian yang mengatasi apa yang akan ditampilkan.
+
 Sebelum perubahan struktur MVP masih belum terpisah dengan baik, dibandingkan dengan struktur yang digunakan saat TMD.  
