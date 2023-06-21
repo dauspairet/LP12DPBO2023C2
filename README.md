@@ -39,14 +39,18 @@ Saya mengubah arsitekturnya menjadi MVP karena menurut saya dalam struktur penyu
 
 ## Keterangan Perubahan:
 - Model
+
   Dalam model diubah menjadi Db dan ScoreModel yang berfungsi untuk mengelola data.
+  
 - Presenter
+
   Dalam presenter diubah menjadi bagian yang mengatasi:
   -  Pergerakan player
   -  Menerima input keyboard
   -  Perantara penghubung model dengan view
   -  Atribut yang dimiliki objek yang akan dipanggil di view.
 - View
+
   Dalam view diubah menjadi bagian yang mengatasi apa yang akan ditampilkan.
 
 Sebelum perubahan struktur MVP masih belum terpisah dengan baik, dibandingkan dengan struktur yang digunakan saat TMD.  
